@@ -2,7 +2,7 @@
 
 This project involves the creation of a robotic arm controlled by an Arduino board and a smartphone application. The robotic arm is capable of multiple movements, including wrist roll, wrist pitch, elbow bend, shoulder rotation, waist rotation, and gripping objects.<br>
 
-<b>Features</b<br>
+<b>Features</b><br>
 <b>6 Degrees of Freedom:</b> The robotic arm can move in multiple directions, allowing for complex operations.<br>
 <b>Smartphone Control:</b> Easily control the robotic arm using a custom-built Android application.<br>
 <b>Bluetooth Communication: </b>The arm communicates with the smartphone via an HC-05 Bluetooth module.<br>
